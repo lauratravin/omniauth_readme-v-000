@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 #adding new gemts
 
-gem 'omniauth'
+gem 'omniauth', '~>1.9.1'
 gem 'omniauth-facebook'
 gem 'dotenv-rails'
 
